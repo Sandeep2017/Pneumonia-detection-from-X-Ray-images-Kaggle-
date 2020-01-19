@@ -3,19 +3,19 @@
 In this colab notebook, I have built a CNN
 to automatically identify whether a patient is suffering from pneumonia or not by looking at X-ray images. 
 
-Accuracy on test set : 96 %
+Accuracy on training set : 94.25 %
 
-Accuracy on validation set : 86 %
+Accuracy on validation set : 89.7 %
 
-Precision : 
+Precision : 90.27 %
 
-Recall :
+Recall : 95.13 %
 
-F1 Score :
+F1 Score : 92.63 
 
 
 The dataset is obtained from kaggle 
-Link : 
+
 
 
 
