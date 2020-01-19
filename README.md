@@ -1,12 +1,21 @@
 # Pneumonia-detection-from-X-Ray-images-Kaggle-
-Colab notebooks
+
+In this colab notebook, I have built a CNN
+to automatically identify whether a patient is suffering from pneumonia or not by looking at X-ray images. 
+
+Accuracy on test set : 96 %
+
+Accuracy on validation set : 86 %
+
+Precision : 
+
+Recall :
+
+F1 Score :
 
 
-
-
-
-
-
+The dataset is obtained from kaggle 
+Link : 
 
 
 
